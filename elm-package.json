@@ -1,6 +1,6 @@
 {
-    "version": "1.0.0",
-    "summary": "Shorthand for working with Graphics",
+    "version": "1.0.1",
+    "summary": "A scale-aware shorthand for Graphics",
     "repository": "https://github.com/circuithub/elm-graphics-shorthand.git",
     "license": "MIT",
     "source-directories": [
