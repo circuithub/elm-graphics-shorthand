@@ -7,8 +7,8 @@ These drawing styles are all relative to a global drawing scale supplied as the 
 
 -}
 
-import Graphics.Collage (..)
-import Color (..)
+import Graphics.Collage exposing (..)
+import Color exposing (..)
 
 {-| Shorthand for 'defaultLine' with a drawing scale and color
 -}
