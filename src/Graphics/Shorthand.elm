@@ -13,8 +13,8 @@ import Color exposing (..)
 {-| Shorthand for 'defaultLine' with a drawing scale and color
 -}
 onePxLine : Float -> Color -> LineStyle
-onePxLine drawingScale color = { defaultLine | width <- 1.0 / (drawingScale)
-                                             , color <- color }
+onePxLine drawingScale color = { defaultLine | width = 1.0 / (drawingScale)
+                                             , color = color }
 
 {-| Shorthand for 'outlined' with a drawing scale and color
 -}
